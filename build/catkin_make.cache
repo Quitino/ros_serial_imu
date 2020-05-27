@@ -1,0 +1,2 @@
+.
+-DCATKIN_DEVEL_PREFIX=/home/fb/serial_success_imu/devel -DCMAKE_INSTALL_PREFIX=/home/fb/serial_success_imu/install -G Unix Makefiles
