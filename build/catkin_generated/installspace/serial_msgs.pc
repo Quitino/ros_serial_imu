@@ -1,8 +1,0 @@
-prefix=/home/fb/serial_success_imu/install
-
-Name: serial_msgs
-Description: Description of serial_msgs
-Version: 0.0.0
-Cflags: -I/home/fb/serial_success_imu/install/include
-Libs: -L/home/fb/serial_success_imu/install/lib 
-Requires: message_runtime serial std_msgs roscpp rospy
